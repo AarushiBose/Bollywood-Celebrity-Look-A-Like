@@ -27,3 +27,11 @@ Beyond entertainment, the application has potential use cases in social media fi
 ## Demonstrative Overview
 
 ![WhatsApp Image 2024-10-31 at 23 37 58_43a13e4d](https://github.com/user-attachments/assets/15348cb2-4075-4a6e-a27d-d46e77ecad16)
+
+![image](https://github.com/user-attachments/assets/51602c10-c4da-4995-9db3-a62ae4fe51a2)
+
+![image](https://github.com/user-attachments/assets/599208ab-c9d7-4a58-8fa7-89fed5ebaba7)
+
+![image](https://github.com/user-attachments/assets/d462ffd6-ac86-47b4-af4e-e275628efab2)
+
+
